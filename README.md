@@ -1,3 +1,3 @@
 # Description
 
-Landing page qbattles.com
+Landing page for [qbattles.com](http://qbattles.com)
